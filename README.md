@@ -20,8 +20,8 @@
 <h3> Estoy trabajando en: </h3>
 
 - Mejorar mis conocimientos en tecnologías nuevas⚖️
-- Trabajando en obtener la certificación AZ-900 de Azure 👷
-- En un pequeño proyecto de un sistema de horarios para mi escuela 📆
+- Obtener la certificación AZ-900 de Azure 👷
+- Un pequeño proyecto de un sistema de horarios para mi escuela 📆
 
 
 
