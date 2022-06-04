@@ -1,8 +1,10 @@
-<img align='right' src="https://media0.giphy.com/media/DMjevfevKwkAg4sKBJ/giphy.gif?cid=ecf05e473ripwlekt5vtk2e7bl5nn0k0sl8hrozb7lp9aa4j&rid=giphy.gif&ct=g" width="300">
+
 
 <h2> Holi, soy Alex 🙌🐶 </h2>
 
 <h3> Sobre mi </h3>
+
+<img align='right' src="https://media0.giphy.com/media/DMjevfevKwkAg4sKBJ/giphy.gif?cid=ecf05e473ripwlekt5vtk2e7bl5nn0k0sl8hrozb7lp9aa4j&rid=giphy.gif&ct=g" width="250">
 
 - Estudiante de licenciatura en ingeniería en sistemas computacionales en el IESE *(Octavo Semestre)* 🧑‍🎓
 - Mexicano 🇲🇽
