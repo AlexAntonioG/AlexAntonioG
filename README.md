@@ -1,34 +1,26 @@
+<img align='right' src="https://media0.giphy.com/media/DMjevfevKwkAg4sKBJ/giphy.gif?cid=ecf05e473ripwlekt5vtk2e7bl5nn0k0sl8hrozb7lp9aa4j&rid=giphy.gif&ct=g" width="300">
 
-## Holi, soy Alex 🙌🐶
+<h2> Holi, soy Alex 🙌🐶 </h2>
 
-### Sobre mi
+<h3> Sobre mi </h3>
 
-- Estudiante de licenciatura en ingenieria en sistemas computacionales en el IESE *(Octavo Semestre)* 🧑‍🎓
+- Estudiante de licenciatura en ingeniería en sistemas computacionales en el IESE *(Octavo Semestre)* 🧑‍🎓
 - Mexicano 🇲🇽
 - Programador y desarrollador web en progreso 🏁
 
-### Utilizo y he utilizado
+<h3> Utilizo y he utilizado </h3>
 
-- Html, Css, Javascript, Php, C#
+- Html, Css, Javascript, Php, C#, SQL
+
+<h3> Estoy trabajando en: </h3>
+
+- Mejorar mis conocimientos en tecnologías nuevas⚖️
+- Trabajando en obtener la certificación AZ-900 de Azure 👷
+- En un pequeño proyecto de un sistema de horarios para mi escuela 📆
 
 
 
 
 
-
-<!--
-**AlexAG47/AlexAG47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
