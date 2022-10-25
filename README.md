@@ -8,7 +8,7 @@
 
 <h3> Sobre mi </h3>
 
-- Estudiante de licenciatura en ingeniería en sistemas computacionales en el IESE *(Octavo Semestre)* 🧑‍🎓
+- Estudiante de licenciatura en ingeniería en sistemas computacionales en el IESE *(Noveno Semestre)* 🧑‍🎓
 - Mexicano 🇲🇽
 - Programador y desarrollador web en progreso 🏁
 - Me encantan los videojuegos! 🎮
@@ -20,7 +20,7 @@
 <h3> Estoy trabajando en: </h3>
 
 - Mejorar mis conocimientos en tecnologías nuevas⚖️
-- Encontrar un lugar para mis pasantias :post_office:
+- Conocer herramientas de desarrollo :post_office:
 - Comenzar a construir mi carrera profesional :triangular_ruler:
 
 
