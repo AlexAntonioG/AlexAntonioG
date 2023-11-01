@@ -15,7 +15,7 @@
 
 <h3> Utilizo y he utilizado </h3>
 
-- Html, Css, Javascript, Php, C#, SQL
+- Html, Css, Javascript, Php, C#, SQL, Java
 
 <h3> Estoy trabajando en: </h3>
 
