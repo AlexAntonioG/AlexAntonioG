@@ -8,9 +8,9 @@
 
 <h3> Sobre mi </h3>
 
-- Estudiante de licenciatura en ingeniería en sistemas computacionales en el IESE *(Noveno Semestre)* 🧑‍🎓
+- Estudié licenciatura en ingeniería en sistemas computacionales en el IESE 🧑‍🎓
 - Mexicano 🇲🇽
-- Programador y desarrollador web en progreso 🏁
+- Desarollador en crecimiento 🏁
 - Me encantan los videojuegos! 🎮
 
 <h3> Utilizo y he utilizado </h3>
